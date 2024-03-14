@@ -10,3 +10,7 @@ How to install an automation tool.
 1. First you navigate to youtube
 2. Search for the tool
 3. Select the video
+4. Play the video
+5. Finish video
+
+
